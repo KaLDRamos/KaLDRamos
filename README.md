@@ -3,7 +3,7 @@
 <h2>Em busca de equilíbrio e estabilidade financeira.</h2><br>
 <p> Sou aprendiz na área de Tecnologia da Informação, administrei meus negócios em marktplaces até junho de 2024 e estou migrando profissionalmente para a área de TI desde janeiro de 2024.<br>
 Curso Análise de Desenvolvimento de Sistemas na Cruzeiro do Sul, aplicando meus conhecimentos em pequenos cursos além de conquistar experiência prática. <br>
-Em busca de estágio ou uma oportunidade de trabalho como aprender e montar um novo portfólio para que neste mercado seja tão abrangente e desafiador.<br>
+Em busca de estágio ou uma oportunidade de trabalho como aprender e montar um novo portfólio para este mercado seja tão abrangente e desafiador.<br>
 <h2>🔭 Em busca de equilíbrio e estabilidade financeira.</h2>
 <p> Quero estágio ou uma oportunidade de trabalho como aprendiz e estou construindo um portfólio para que neste mercado seja tão abrangente e desafiador.< br >
 Sou curiosa, adoro estudar, amo ler, gosto de desafios e estou me apaixonando aos poucos por essa nova profissão. </ p >
