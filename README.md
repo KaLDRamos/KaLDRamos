@@ -5,8 +5,8 @@
 Curso Análise de Desenvolvimento de Sistemas na Cruzeiro do Sul, aplicando meus conhecimentos em pequenos cursos além de conquistar experiência prática. <br>
 Em busca de estágio ou uma oportunidade de trabalho como aprender e montar um novo portfólio para este mercado seja tão abrangente e desafiador.<br>
 <h2>🔭 Em busca de equilíbrio e estabilidade financeira.</h2>
-<p> Quero estágio ou uma oportunidade de trabalho como aprendiz e estou construindo um portfólio para que neste mercado seja tão abrangente e desafiador.< br >
-Sou curiosa, adoro estudar, amo ler, gosto de desafios e estou me apaixonando aos poucos por essa nova profissão. </ p >
+<p> Quero estágio ou uma oportunidade de trabalho como aprendiz e estou construindo um portfólio para que neste mercado seja tão abrangente e desafiador.<br>
+Sou curiosa, adoro estudar, amo ler, gosto de desafios e estou me apaixonando aos poucos por essa nova profissão. </p>
 <p>
   📫 Contato: karina.daquino@gmail.com <br>
   ⚡ Fato engraçado: (ou hilário) Sou de 79 e estou em transição de carreira, acredita?<br>
