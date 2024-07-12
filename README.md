@@ -1,8 +1,8 @@
 <h1>Ka D'Aquino</h1><br>
 <img src="https://avatars.githubusercontent.com/u/73259119?v=4"><br>
 <h2>Em busca de aprendizado e crescimento profissional</h2><br>
-<p> Em busca de uma oportunidade de estágio ou trabalho, onde possa aprender, crescer e contribuir.<br>
-Sou uma pessoa curiosa por natureza, com um amor por aprender que me impulsiona a buscar novos conhecimentos e desafios. Adoro ler, me aprofundando em diferentes áreas e expandindo meus horizontes. Acredito que a educação contínua é a chave para o sucesso profissional e pessoal.<br> Diante de um desafio, vejo uma oportunidade de aprendizado e crescimento. Tenho disposição para me dedicar e me esforçar para superar os obstáculos e alcançar os melhores resultados<br> Sou curiosa, adoro estudar, e estou me apaixonando por essa profissão.</p>
+<p> Quero uma oportunidade de estágio ou trabalho, onde possa aprender, crescer e contribuir.<br>
+Sou uma pessoa curiosa por natureza, com um amor por aprender que me impulsiona buscar novos conhecimentos e desafios. Adoro ler, me aprofundando em diferentes áreas e expandindo meus horizontes. Acredito que a educação contínua é a chave para o sucesso profissional e pessoal.<br> Diante de um desafio, vejo uma oportunidade de aprendizado e crescimento. Tenho disposição para me dedicar e me esforçar para superar os obstáculos e alcançar os melhores resultados<br> Estou me apaixonando por essa profissão.</p>
 <p>
   📫 Contato: karina.daquino@gmail.com <br>
   ⚡ Fato engraçado: (ou hilário) Sou de 79 e estou em transição de carreira, acredita?<br>
