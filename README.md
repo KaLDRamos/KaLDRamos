@@ -11,5 +11,5 @@ Sou curiosa, adoro estudar, amo ler, gosto de desafios e estou me apaixonando ao
   📫 Contato: karina.daquino@gmail.com <br>
   ⚡ Fato engraçado: (ou hilário) Sou de 79 e estou em transição de carreira, acredita?<br>
   🌱 Sou aprendiz na área de Tecnologia da Informação, curso Análise de Desenvolvimento de Sistemas na Cruzeiro do Sul, aplicando meus conhecimentos em pequenos cursos adicionais na Alura e outras plataformas para ter experiência prática.<br>
-  👯 Administrarei meus negócios em marktplaces até julho de 2024 e estou migrando profissionalmente para área de TI desde janeiro de 2024 como Freelancer.<br>
+  👯 Administrei negócios em marktplaces até julho de 2024 e estou migrando profissionalmente para área de TI desde janeiro de 2024 como Freelancer.<br>
 </p>
