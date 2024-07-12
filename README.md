@@ -1,4 +1,4 @@
-<h1>Karina D'Aquino (KaD'Aquino)</h1><br>
+<h1>Ka D'Aquino</h1><br>
 <img src="https://avatars.githubusercontent.com/u/73259119?v=4"><br>
 <h2>Em busca de aprendizado e crescimento profissional</h2><br>
 <p> Em busca de uma oportunidade de estágio ou trabalho, onde possa aprender, crescer e contribuir.<br>
