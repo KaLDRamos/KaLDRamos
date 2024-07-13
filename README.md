@@ -6,6 +6,6 @@ Sou uma pessoa curiosa por natureza, com um amor por aprender que me impulsiona 
 <p>
   📫 Contato: karina.daquino@gmail.com <br>
   ⚡ Fato curioso: Sou de 79 e estou em transição de carreira, acredita?<br>
-  🌱 Cursando Análise de Desenvolvimento de Sistemas e conteudos adicionais da Alura e outras plataformas, aplico meus conhecimentos no meu projeto pessoal () e também em freelas quando aparecem.<br>
+  🌱 Cursando Análise de Desenvolvimento de Sistemas e conteudos adicionais da Alura e outras plataformas, aplico meus conhecimentos no meu <a href="https://sustentabilidade-xi.vercel.app/" style="text-decoration: none;">projeto pessoal</a> e também em freelas quando aparecem.<br>
   👯 Administrei negócios em marktplaces e migrei em janeiro de 2024 para área de TI.<br>
 </p>
